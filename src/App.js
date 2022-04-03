@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import {BsDiscord, BsInstagram, BsMedium, BsShopWindow, BsTwitter} from "react-icons/bs";
 import {FaQq, FaTiktok} from "react-icons/fa";
