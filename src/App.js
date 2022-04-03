@@ -36,7 +36,7 @@ function App() {
         <div className="text-sm lg:flex-grow pt-10">
           <ul className="flex justify-end align-middle justify-center">
             <li className="mr-5" data-tooltip-target="tooltip-default">
-              <a href="https://opensea.io/collection/octopeeps" target="_blank"
+              <a href="https://opensea.io/collection/octopeeps" target="_blank" rel="noreferrer"
                  className="icon hover:text-white">
                 <BsShopWindow/>
               </a>
@@ -48,7 +48,7 @@ function App() {
             </li>
 
             <li className="mr-5" data-tooltip-target="tooltip-default1">
-              <a href="https://discord.gg/MfMTwyP6b9" target="_blank"
+              <a href="https://discord.gg/MfMTwyP6b9" target="_blank" rel="noreferrer"
                  className="icon hover:text-white">
                 <BsDiscord/>
               </a>
@@ -60,7 +60,7 @@ function App() {
             </li>
 
             <li className="mr-5" data-tooltip-target="tooltip-default2">
-              <a href="https://www.instagram.com/octo.peeps" target="_blank"
+              <a href="https://www.instagram.com/octo.peeps" target="_blank" rel="noreferrer"
                  className="icon hover:text-white">
                 <BsInstagram/>
               </a>
@@ -72,7 +72,7 @@ function App() {
             </li>
 
             <li className="mr-5" data-tooltip-target="tooltip-default3">
-              <a href="https://twitter.com/octo_peeps" target="_blank"
+              <a href="https://twitter.com/octo_peeps" target="_blank" rel="noreferrer"
                  className="icon hover:text-white">
                 <BsTwitter/>
               </a>
@@ -84,7 +84,7 @@ function App() {
             </li>
 
             <li className="mr-5" data-tooltip-target="tooltip-default4">
-              <a href="https://medium.com/@yaroslav-solonnikov" target="_blank"
+              <a href="https://medium.com/@yaroslav-solonnikov" target="_blank" rel="noreferrer"
                  className="icon hover:text-white">
                 <BsMedium/>
               </a>
@@ -96,7 +96,7 @@ function App() {
             </li>
 
             <li className="mr-5" data-tooltip-target="tooltip-default5">
-              <a href="https://www.tiktok.com/@yaroslav.solonnikov" target="_blank"
+              <a href="https://www.tiktok.com/@yaroslav.solonnikov" target="_blank" rel="noreferrer"
                  className="icon hover:text-white">
                 <FaTiktok/>
               </a>
